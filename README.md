@@ -5,10 +5,11 @@ Développeur passionné en cybersécurité, intelligence artificielle et électr
 Compétences:
 - 🐧 Linux
 - 🐍 Python
-- ⚡ NextJs
+- ⚡ Next.js
 - 📊 SQL
 - 🦀 Rust
 
 Projets récents:
-- 🤖 Assistant vocale avec reconnaissance vocale et comprehension IA
+- 🌐 Site web de gestion immobilière
+- 🤖 Assistant vocal avec reconnaissance vocale et compréhension IA
 - 🚁 Mini drone contrôlé par ESP32
