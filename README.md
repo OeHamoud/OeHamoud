@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salut, Je suis Ahmed 👋
 
-<!--
-**The-engenier/The-engenier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné en cybersécurité, intelligence artificielle et électronique, j'aime créer des projets innovants
 
-Here are some ideas to get you started:
+Compétences:
+- 🐧 Linux
+- 🐍 Python
+- ⚡ NextJs
+- 📊 SQL
+- 🦀 Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projets récents:
+- 🤖 Assistant vocale avec reconnaissance vocale et comprehension IA
+- 🚁 Mini drone contrôlé par ESP32
