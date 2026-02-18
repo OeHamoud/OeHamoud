@@ -1,22 +1,21 @@
-# Salut, Je suis Ahmed 👋
+# Wsp, My name's Ahmed 👋
 
-Développeur passionné en 🔐 cybersécurité, 🤖 intelligence artificielle et ⚡ électronique, j'aime créer des projets innovants 💡
+Passionate develeper in 🔐 cybercecurity , 🤖 artificial intelligence and ⚡ electronics, I love creating innovative projects 💡
 
-## Compétences:
+## Skills:
 - 🐧 Linux
 - 🐍 Python
 - ⚡ Next.js
 - 📊 SQL
 - 🦀 Rust
 
-## Langues maîtrisées:
+## Proficient Languages:
 - 🇫🇷 Français
-- 🇬🇧 Anglais
-- 🇸🇦 Arabe
-- 🇩🇪 Allemand
+- 🇬🇧 English
+- 🇸🇦 عربي
+- 🇩🇪 deutsch
 
-## Projets récents:
-- 🌐 Site web de gestion immobilière
-- 🤖 Assistant vocal avec reconnaissance vocale et compréhension IA
-- 🚁 Mini drone contrôlé par ESP32
-
+# Recent Projects:
+- 🎬 Saas that generates optimised video descriptions - <a href="https://descriptium.com" target="_blank">Descriptium</a> (2026)
+- 🚁 Mini drone controlled by ESP32 (2025)
+- 🤖 Voice assistant with speech recognition and AI understanding (2018)
