@@ -8,6 +8,7 @@ Passionate develeper in 🔐 cybercecurity , 🤖 artificial intelligence and �
 - ⚡ Next.js
 - 📊 SQL
 - 🦀 Rust
+- 🐳 Docker
 
 ## Proficient Languages:
 - 🇫🇷 Français
